@@ -1,7 +1,7 @@
 ﻿#include <iostream>
-
+using namespace std;
 int main()
 {
-	std::cout << "Don't mind,just do it!\n";
+	cout << 123456;
 	return 0;
 }

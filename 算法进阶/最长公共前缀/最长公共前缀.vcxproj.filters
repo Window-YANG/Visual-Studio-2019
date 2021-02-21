@@ -18,12 +18,18 @@
     <ClInclude Include="最长公共前缀.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="二叉树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="算法进阶.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="最长公共前缀.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

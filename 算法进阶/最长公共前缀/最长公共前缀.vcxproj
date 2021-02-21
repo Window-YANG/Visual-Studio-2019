@@ -19,9 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="二叉树.h" />
     <ClInclude Include="最长公共前缀.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="二叉树.c" />
     <ClCompile Include="最长公共前缀.c" />
     <ClCompile Include="算法进阶.c" />
   </ItemGroup>
